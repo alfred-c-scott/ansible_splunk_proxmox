@@ -1,1 +1,1 @@
-# ansible_splunk_local_deployment
+# Ansible Playbooks for local Splunk deployment in Proxmox VE
